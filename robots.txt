@@ -1,0 +1,5 @@
+User-Agent: Googlebot
+Disallow: *
+Allow: https://bpanchenko.github.io/chromatic-chandelier
+Allow: https://bpanchenko.github.io/chromatic-chandelier/color
+Sitemap: https://bpanchenko.github.io/chromatic-chandelier/sitemap.xml
